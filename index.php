@@ -68,7 +68,7 @@
                              specific text should be "clickable" and will redirect
                              the user to the web page that we specify in
                              the "href" attribute. -->
-                        <li><a href="home.html" class="active">Home</a></li>
+                        <li><a href="index.php" class="active">Home</a></li>
                         <li><a href="about.html">About</a></li>
                         <li><a href="portfolio.html">Portfolio</a></li>
                         <li><a href="services.html">Services</a></li>
